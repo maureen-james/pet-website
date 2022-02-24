@@ -21,5 +21,12 @@ body{
 } */
 .ul{
     text-align: center;
+    list-style: none;
 }
-    
+.paragraph{
+    text-align: center;
+    background-color: black;
+}
+.paragraph li{
+display: list-item;
+}
